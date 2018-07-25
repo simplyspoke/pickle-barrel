@@ -1,0 +1,25 @@
+{
+  "name": "pickle-barrel",
+  "version": "0.0.1",
+  "description": "A place to store your pickles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplyspoke/pickle-barrel.git"
+  },
+  "keywords": [
+    "bdd",
+    "cucumber",
+    "nodejs",
+    "gherkin"
+  ],
+  "author": "Tristan Fitzgerald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyspoke/pickle-barrel/issues"
+  },
+  "homepage": "https://github.com/simplyspoke/pickle-barrel#readme"
+}
